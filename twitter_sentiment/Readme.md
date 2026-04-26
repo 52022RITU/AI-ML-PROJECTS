@@ -11,9 +11,6 @@ Classifies tweets into sentiment classes using NLP.
 - Feature extraction using TF-IDF
 - Model: Logistic Regression / Naive Bayes (use your actual model)
 
-## Results
-- Accuracy: XX% (fill your value)
-
 ## Tech Stack
 Python, Pandas, Scikit-learn, NLP
 
