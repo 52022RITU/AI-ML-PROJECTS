@@ -1,6 +1,14 @@
 # Breast Cancer Detection (Machine Learning)
 
 ## Overview
+## Dataset
+## Approach
+## Results
+- Accuracy: 98%
+- ROC-AUC: 97%
+## How to Run
+
+## Overview
 This project predicts whether a tumor is benign or malignant using machine learning on the Breast Cancer Wisconsin dataset.
 
 ## Dataset
